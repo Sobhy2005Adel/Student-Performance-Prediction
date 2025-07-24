@@ -1,3 +1,8 @@
+---
+
+## 📁 `student_performance_prediction/README.md`
+---
+
 # 🎓 Student Performance Prediction
 
 This project is a binary classification task to predict whether a student will pass or fail based on their features like study time, absences, and demographic information.
